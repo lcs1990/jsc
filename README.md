@@ -1,6 +1,6 @@
 # jsc
 
-> A Vue.js project
+>lcs A Vue.js project
 
 ## Build Setup
 
